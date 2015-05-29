@@ -1,2 +1,2 @@
-# Wyvern
+# Wyverni CH
 USB Firmware
